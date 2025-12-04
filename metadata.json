@@ -1,0 +1,5 @@
+{
+  "name": "Vocalize AI",
+  "description": "A high-quality Text-to-Speech converter supporting Hindi, English, and Marathi with customizable voices and gender selection.",
+  "requestFramePermissions": []
+}
